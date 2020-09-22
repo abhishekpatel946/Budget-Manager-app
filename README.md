@@ -160,13 +160,13 @@ Project Link: [https://github.com/abhishekpatel946/Budget-Manager-app](https://g
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/abhishekpatel946/Budget-Manager-app.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/abhishekpatel946/Budget-Manager-app.svg?style=flat
 [contributors-url]: https://github.com/abhishekpatel946/Budget-Manager-app/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/abhishekpatel946/Budget-Manager-app.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/abhishekpatel946/Budget-Manager-app.svg?style=flat
 [forks-url]: https://github.com/abhishekpatel946/Budget-Manager-app/network/members
-[stars-shield]: https://img.shields.io/github/stars/abhishekpatel946/Budget-Manager-app.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/abhishekpatel946/Budget-Manager-app.svg?style=flat
 [stars-url]: https://github.com/abhishekpatel946/Budget-Manager-app/stargazers
-[issues-shield]: https://img.shields.io/github/issues/abhishekpatel946/Budget-Manager-app.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/abhishekpatel946/Budget-Manager-app.svg?style=flat
 [issues-url]: https://github.com/abhishekpatel946/Budget-Manager-app/issues
 [product-screenshot]: App/Budget-Manager-icon.jpg
 
